@@ -1,0 +1,78 @@
+.navbar{
+  height: 50px;
+  background-color: #011532;
+  display: flex;
+  justify-content: center;
+}
+
+.navContainer{
+  width: 100%;
+  max-width: 1424px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+      font-size: 16px;
+      font-weight: bold;
+      padding: 8px;
+      color: #2c2b2b;
+      border: 2px outset black;
+      border-radius:40px;
+      background: linear-gradient(90deg, rgb(137, 137, 243), silver);
+}
+
+.navButton{
+  margin-left: 20px;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: #003580;
+}
+
+.lsButton {
+width: 50px;
+height:40px ;
+ 
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.headerBtn {
+  width: 80px;
+  height: 36px;
+  font-size: 10px;
+ border: 2px solid rgb(159, 155, 155);
+  text-align: center;
+  padding-top: 4px;
+  border-radius: 20px;
+  background: linear-gradient(45deg, silver, black);
+ 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 50px;
+  right: 20px;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.show {display: block;}
