@@ -1,2 +1,2 @@
 # Hotel_Booking_app
-This a complete MERN app with admin panel
+This is a complete MERN app with admin panel
