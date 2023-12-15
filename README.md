@@ -21,15 +21,19 @@ APIs: Integration with external APIs for hotel data and booking services.
 Getting Started:
 
 Clone the Repository:
+
 git clone https://github.com/Akash-Path/Hotel_Booking_app.git
 
 Go to local repository in your machine:
+
 cd Hotel_Booking_app
 
 Install Dependencies:
+
 npm install
 
 Set Up Environment Variables:
+
 Create a .env file in the root directory.
 Add the following environment variables:
 
@@ -37,14 +41,17 @@ MONGO=your-mongodb-uri
 JWT=your-secret-key-for-jwt
 
 Run the Server(first step):
+
 Booking app> cd api
 Booking app\api> npm start
 
 Run the Application:
+
 Booking app> cd client
 Booking app\client> npm start
 
 Open in Browser:
+
 Open your web browser and visit http://localhost:3000 to access the Hotel Booking App.
 
 License
