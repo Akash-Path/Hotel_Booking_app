@@ -1,24 +1,25 @@
 # Hotel_Booking_app
 This is a complete MERN app with admin panel
 
-Overview
+Overview:
 Welcome to the Hotel Booking App repository! This application is designed to simplify the process of booking hotels for users. It provides a user-friendly interface to search for available hotels, view details, and make reservations seamlessly.
 
-Features
+Features:
 User Authentication: Secure user authentication system to protect user accounts and personal information using JWT tokens and bcrypt.
 Search and Filters: Easily search for hotels based on location, dates, and other filters to find the perfect accommodation.
 Hotel Details: Comprehensive information about each hotel, including amenities, reviews, and photos.
 Booking System: Simple and intuitive booking system for users to reserve their preferred rooms.
 Admin Dashboard: A personalized dashboard for admin to manage hotels, add hotels and rooms and add user profile.
 
-Technologies Used
+Technologies Used:
 Frontend: React.js, CSS, JavaScript, 
 Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: JSON Web Tokens (JWT)
 APIs: Integration with external APIs for hotel data and booking services.
 
-Getting Started
+Getting Started:
+
 Clone the Repository:
 git clone https://github.com/Akash-Path/Hotel_Booking_app.git
 
